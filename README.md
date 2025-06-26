@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Swapnilgupta8585/Swapnilgupta8585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Swapnil Gupta  
+🛠️ I build full-stack apps with Go, Python, and React  
+🧠 I love working on real-time features, clean UIs, and scalable backends  
+🌱 Currently diving deeper into backend engineering — exploring Docker, CI/CD, pub-sub architectures, and Kubernetes  
+🚀 Big fan of learning by building   
+🤝 Always happy to connect, share ideas, or learn from others
+
+
