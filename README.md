@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'm Swapnil Gupta  
-🛠️ I build full-stack apps with Go, Python, and React  
-🧠 I love working on real-time features, clean UIs, and scalable backends  
-🌱 Currently diving deeper into backend engineering — exploring Docker, CI/CD, pub-sub architectures, and Kubernetes  
-🚀 Big fan of learning by building   
-🤝 Always happy to connect, share ideas, or learn from others
+I build full-stack apps with Go, Python, and React. Currently diving deeper into backend engineering, exploring Docker, CI/CD and Kubernetes.
+
+Big fan of learning by building   
+I'm currently exploring backend or full-stack roles, ideally working with Go or Python and React.
+Would love to work at a startup where I can learn fast and make an impact early.
+Always happy to connect, share ideas, or learn from others!
 
 
